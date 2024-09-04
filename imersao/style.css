@@ -57,7 +57,7 @@ section input {
     border-radius: 1.5rem; /* Borda arredondada */
     margin-bottom: 1rem; /* Espaçamento abaixo dos inputs */
     color: #45474B; /* Cor do texto */
-    font-size: 1rem; /* Tamanho da fonte */
+    font-size: 1.5rem; /* Tamanho da fonte */
     box-sizing: border-box; /* Inclui padding e border na largura total */
 }
 
@@ -68,7 +68,7 @@ section button {
     border-radius: 1.5rem; /* Borda arredondada */
     background-color: #30475e8a; /* Cor de fundo do botão */
     color: #F5F7F8; /* Cor do texto do botão */
-    font-size: 1rem; /* Tamanho da fonte */
+    font-size: 1.5rem; /* Tamanho da fonte */
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
 
@@ -99,7 +99,7 @@ section button:hover {
 
 /* Estiliza os títulos dentro dos itens de resultado */
 .item-resultado h2 {
-    font-size: 1.5rem; /* Tamanho da fonte */
+    font-size: 2rem; /* Tamanho da fonte */
     color: #ffffff; /* Cor do texto */
 }
 
@@ -107,6 +107,7 @@ section button:hover {
 .item-resultado a {
     text-decoration: none; /* Remove o sublinhado padrão dos links */
     color: #e00505; /* Cor do texto dos links */
+    
 }
 
 /* Estiliza os links quando são passados o mouse sobre */
@@ -119,6 +120,7 @@ section button:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #000000; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
+    font-size: 1.5rem;
 }
 
 /* Estiliza o rodapé da página */
