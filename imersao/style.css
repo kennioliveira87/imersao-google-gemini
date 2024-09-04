@@ -4,6 +4,7 @@ body {
     background-size: cover;
     background-position: center;
 
+
     font-family: "Chakra Petch", sans-serif; /* Define a fonte padrão */
     background-color: #DDDDDD; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
@@ -37,6 +38,7 @@ h1 {
     color: #090a0c; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
+    
 }
 
 /* Estiliza as seções da página */
@@ -88,7 +90,7 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background: #ffffff59; /* Cor de fundo dos itens */
+    background: #dadada59; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
@@ -114,7 +116,8 @@ section button:hover {
 
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
-    color: #e29300; /* Cor do texto */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fbff00; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
