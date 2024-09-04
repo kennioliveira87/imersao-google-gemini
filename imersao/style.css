@@ -35,7 +35,7 @@ h1 {
 /* Estiliza os títulos h1 */
 h1 {
     font-size: 6rem; /* Tamanho da fonte */
-    color: #090a0c; /* Cor do texto */
+    color: #e00505; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
     
@@ -90,7 +90,7 @@ section button:hover {
 
 /* Estiliza cada item de resultado */
 .item-resultado {
-    background: #dadada59; /* Cor de fundo dos itens */
+    background: #dadada69; /* Cor de fundo dos itens */
     border-radius: 0.6rem; /* Borda arredondada */
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
@@ -106,7 +106,7 @@ section button:hover {
 /* Estiliza os links dentro dos itens de resultado */
 .item-resultado a {
     text-decoration: none; /* Remove o sublinhado padrão dos links */
-    color: #000000; /* Cor do texto dos links */
+    color: #e00505; /* Cor do texto dos links */
 }
 
 /* Estiliza os links quando são passados o mouse sobre */
@@ -117,13 +117,13 @@ section button:hover {
 /* Estiliza a descrição meta dentro dos itens de resultado */
 .descricao-meta {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #fbff00; /* Cor do texto */
+    color: #000000; /* Cor do texto */
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
 /* Estiliza o rodapé da página */
 footer {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #f8f8f834; /* Cor de fundo do rodapé */
     color: #ff0000; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
