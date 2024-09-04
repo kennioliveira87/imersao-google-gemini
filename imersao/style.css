@@ -15,9 +15,25 @@ body {
     padding: 0; /* Remove o padding padrão */
 }
 
+/* style.css */
+@font-face {
+    font-family: 'Fontes/Augusta.ttf';
+    src: url('Fontes/Augusta.ttf') format('ttf'),
+         url('Fontes/Augusta.ttf') format('ttf'),
+         url('Fontes/Augusta.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    
+}
+
+h1 {
+    font-family: 'RockFont', sans-serif;
+    
+}
+
 /* Estiliza os títulos h1 */
 h1 {
-    font-size: 2.5rem; /* Tamanho da fonte */
+    font-size: 4rem; /* Tamanho da fonte */
     color: #090a0c; /* Cor do texto */
     text-align: center; /* Alinha o texto ao centro */
     letter-spacing: 0.4rem; /* Espaçamento entre letras */
