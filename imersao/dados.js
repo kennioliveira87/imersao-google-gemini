@@ -2,7 +2,8 @@ let dados = [
     {
         titulo : "Metallica", 
         descricao : " O Metallica, formado em 1981, é uma das bandas de heavy metal mais influentes e icônicas de todos os tempos. Com uma sonoridade distintiva e performances enérgicas, a banda conquistou fãs ao redor do mundo e deixou um legado duradouro na história do rock, influenciando inúmeras bandas e músicos.",
-        link : "https://www.metallica.com/"
+        link : "https://www.metallica.com/",
+        tags: ""
     },
     {
         titulo : "System of a Down",
